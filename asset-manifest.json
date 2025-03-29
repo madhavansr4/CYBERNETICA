@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/CYBERNETICA/static/js/main.e34fff78.js",
+    "main.css": "/CYBERNETICA/static/css/main.e9799d10.css",
+    "main.js": "/CYBERNETICA/static/js/main.5890aadc.js",
     "static/js/453.0eb949e9.chunk.js": "/CYBERNETICA/static/js/453.0eb949e9.chunk.js",
     "index.html": "/CYBERNETICA/index.html",
-    "main.e34fff78.js.map": "/CYBERNETICA/static/js/main.e34fff78.js.map",
+    "main.e9799d10.css.map": "/CYBERNETICA/static/css/main.e9799d10.css.map",
+    "main.5890aadc.js.map": "/CYBERNETICA/static/js/main.5890aadc.js.map",
     "453.0eb949e9.chunk.js.map": "/CYBERNETICA/static/js/453.0eb949e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e34fff78.js"
+    "static/css/main.e9799d10.css",
+    "static/js/main.5890aadc.js"
   ]
 }
